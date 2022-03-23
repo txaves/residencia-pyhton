@@ -1,0 +1,1 @@
+CONSTANT_1 = "Constante 1"
